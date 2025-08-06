@@ -1,216 +1,222 @@
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=240&section=header&text=Dhanushree K%20T&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AIML%20Enthusiast&descAlignY=58&descAlign=50"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Coffee+%E2%98%95+%3D+Code+%F0%9F%92%BB;Always+Learning" alt="Typing SVG" />
+</div>
 
 
-<h1 align="center">Hi 👋, I'm Dhanushree K</h1>
-<h3 align="center">Passionate for innovation, A girl trying to be Plus Ultra!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thirumurugan7&label=Profile%20views&color=0e75b6&style=flat" alt="thirumurugan7" /> </p>
-<a href="#thirumurugan7-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=thirumurugan7&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="thirumurugan7" align="right" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/dhanushreekannan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dhanushreer0206@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/dhanushreer0206/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://github.com/dhanushree26"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 
-- 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"25
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabarnashinchu&style=for-the-badge&color=blueviolet" alt=""/>
+</p>
 
-- :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help**
-- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/thiru-murugan-935464218/)
-- 📫 How to reach me **thirumurugan82003@gmail.com.com**
-- :bird: &nbsp;Let's talk more in [Twitter](https://twitter.com/thiru_levi)
+## <div align="center">👨‍💻 About Me</div>
 
+<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBiZGE0Y2NkYjFiMTE2NmFmY2U1NjJlM2ExZjM2MWM4MTQ3YmQ3OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<br>
+- 🎓 Information Technology Student
+- 🌱 Currently diving deep into **Full Stack Development**
+- 💡 Passionate about solving real-world problems through code
+- 🎯 Looking for opportunities in **Java Development**
+- 📝 Resume: [View Resume](https://drive.google.com/file/d/12rEMddUEIJbT3ZDx8cb6YfV4btTaY1KR/view?usp=sharing)
+- ⚡ Fun fact: **I turn coffee into code!**
 
-<h2 align="left" id=""thirumurugan7>Favorite Tech</h2>
-> Tools, languages, and other things that I like to work with.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+## <div align="center">🛠️ My Tech Universe</div>
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      </a>
+      <br>Java
+    </td>
+    
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       </a>
       <br>JavaScript
     </td>
+    
     <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       </a>
-      <br>Python
+      <br>MySQL
+    </td>
+    
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      </a>
+      <br>GitHub
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       </a>
-      <br>Django
+      <br>React
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RestAPI" width="65" height="65" />
       </a>
-      <br>Azure
+      <br>REST API
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       </a>
-      <br>TypeScript
+      <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
       </a>
-      <br>React JS
+      <br>Nginx
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
+      <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="65" height="65" />
+      <br>CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="65" height="65" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" width="65" height="65" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-     <td align="center" width="96"> 
-      <a href="#thirumurugan7" >
-        <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#thirumurugan7" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
-      </a>
-      <br>C Lang
-    </td>
-    <td align="center" width="96">
-      <a href="#thirumurugan7" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center"  width="96">
-      <a href="#thirumurugan7">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-    <td align="center"  width="96">
-      <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td>
-    <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center"  width="96">
-      <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#thirumurugan7" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#thirumurugan7" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#thirumurugan7" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
+      <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="65" height="65" />
+      <br>GitHub
     </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" width="65" height="65" />
+      <br>Windows
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" width="65" height="65" />
+      <br>macOS
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/000000/canva.png" alt="Canva" width="65" height="65" />
+      <br>Canva
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183898731-3b6c1f7f-ec5e-4c52-861c-3bba67ae3c6e.png" alt="Postman" width="65" height="65" />
+        <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/190887576-3ffce8b6-1e41-4ce1-8098-5b2a3e0f6c64.png" alt="GitHub Actions" width="65" height="65" />
+        <br>GitHub Actions
+    </td>
+
   </tr>
-   <tr>
-    <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
-      </a>
-      <br>Tensorflow
-    </td>
-    <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material ui
-    </td>
-    <td align="center" width="96">
-      <a href="#thirumurugan7">
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
-      </a>
-      <br>Solidity
-    </td>
-     <td align="center" width="96"> 
-      <a href="#thirumurugan7" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-          <td align="center" width="96"> 
-      <a href="#thirumurugan7" >
-        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-             <td align="center" width="96"> 
-      <a href="#thirumurugan7" >
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>G Cloud
-    </td>
-  </tr>
-    
 </table>
 
+### 🔧 Tools & IDEs
+<div align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+<img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Linux"/>
+<img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS"/>
+  
+</div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirumurugan7&show_icons=true&locale=en&layout=compact" alt="thirumurugan7" /></p>
-</td>
-<tr>
-    <td align="center" width="1000">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thirumurugan7&show_icons=true&locale=en" alt="thirumurugan7" /></p>
-</td>
-<tr>
-    <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thirumurugan7&" alt="thirumurugan7" /></p>
-</td>
-<tr>
-    <td align="center" width="1000">
-</table>
+<div align="center">
+  <hr width="90%" style="height: 2px; background: linear-gradient(to right, #8A2387, #E94057, #F27121);">
+</div>
 
+## <div align="center">📊 GitHub Stats</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarnashinchu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" width="49%" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sabarnashinchu&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Sabarna's%20GitHub%20Stats" width="49%" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarnashinchu&theme=radical&hide_border=true&layout=compact&langs_count=8" width="49%" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sabarnashinchu&theme=radical&row=1&column=4&no-frame=true&margin-w=15" width="49%" alt="Trophy"/>
+</div>
+
+## <div align="center">📈 Activity Graph</div>
+
+<div align="center">
+  <img alt="Sabarna's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sabarnashinchu&bg_color=0D1117&color=00FFFF&line=00FFAA&point=FFFFFF&area=true&hide_border=true&area_color=00FFB3&area_alpha=0.2" />
+</div>
+
+## <div align="center">🏆 LeetCode Stats</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Sabarna15?theme=dark&font=Montserrat&ext=heatmap&animation=true" alt="LeetCode Stats"/>
+</div>
+
+## <div align="center">🌱 My Latest Projects</div>
+
+<div align="center">
+  <!-- Actual project links -->
+  <a href="https://github.com/sabarnashinchu/smart-Task-manager-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabarnashinchu&repo=smart-Task-manager-&theme=radical" />
+  </a>
+  <a href="https://github.com/sabarnashinchu/Face-Fun-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabarnashinchu&repo=Face-Fun-Website&theme=radical" />
+  </a>
+</div>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/sabarnashinchu/smart-Task-manager-"><b>Smart Task Manager</b></a> - A full-stack task management application combining React/Material-UI frontend with Spring Boot backend
+  </p>
+  <p>
+    <a href="https://github.com/sabarnashinchu/Face-Fun-Website"><b>Face Fun Website</b></a> - Interactive face detection and analysis application
+  </p>
+</div>
+
+<div align="center">
+  <hr width="90%" style="height: 2px; background: linear-gradient(to right, #8A2387, #E94057, #F27121);">
+</div>
+
+<h2 align="center">📫 Reach Out to Me</h2>
+<p align="center">
+  <a href="mailto:dhanushreer0206@gmail.com"><img src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dhanushreekannan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&animation=twinkling&fontSize=40&fontAlignY=80&descSize=20&descAlignY=88"/>
+</div> 
